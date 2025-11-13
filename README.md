@@ -1,6 +1,6 @@
 # Simple Interest Calculator
 
-Fixed a small typo by Rishikant Verma.
+Fixed a small typo by Rishikant Verma
 
 
 This repository contains a Bash script to calculate simple interest.
