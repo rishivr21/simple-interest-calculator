@@ -1,6 +1,7 @@
 #!/bin/bash
-# simple-interest.sh
+# simple-interest.sh 
 # Author: Rishikant Verma
+
 
 echo "Enter Principal:"
 read p
