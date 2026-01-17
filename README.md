@@ -13,3 +13,4 @@ Run the script in terminal:
 bash simple-interest.sh
 
 
+
